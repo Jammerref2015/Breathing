@@ -1,39 +1,49 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Roller Derby Website
 
-Welcome Adrian Looney,
+The aim of this website is to provide a simple tool to learn a breathing technique which can aid for example a person who has anxiety. This site is used to practice dev techniques with the aim to add more features to it in the future.  
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+ 
+## UX
+The page uses a simple animation to aid with breathing. The background features a calm image. 
 
-## Gitpod Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+ 
+### Existing Features
 
-A blue button should appear to click: *Make Public*,
+- Simple animation aiding someone in learning a breathing technique.  
 
-Another blue button should appear to click: *Open Browser*.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Possible features that could be included. 
+- Display text based affirmations at different points. 
+- Ability to change background. 
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+### Features Left to Implement
+- Sound. Allow user to listen to sounds.  
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+## Technologies Used
+ 
+- [Google fonts](https://fonts.google.com)
+	- The project uses google fonts.
 
-## Updates Since The Instructional Video
+## Testing
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+todo
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+## Deployment
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+- A Github page was created. This enabled the site to be viewed on different browsers and screen sizes. 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
 
-Happy coding!
+## Credits
+- The basic code for this page comes from https://github.com/bradtraversy/vanillawebprojects/tree/master/relaxer-app
+### Media
+- 
+
+### Acknowledgements
+
+- 
