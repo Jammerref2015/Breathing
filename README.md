@@ -35,7 +35,8 @@ todo
 
 ## Deployment
 
-- A Github page was created. This enabled the site to be viewed on different browsers and screen sizes. 
+- A Github page was created. This enabled the site to be viewed on different browsers and screen sizes.
+- Site can be accessed here: https://jammerref2015.github.io/Breathing/.
 
 
 
