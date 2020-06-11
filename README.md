@@ -1,4 +1,4 @@
-# Roller Derby Website
+# Breathing app
 
 The aim of this website is to provide a simple tool to learn a breathing technique which can aid for example a person who has anxiety. This site is used to practice dev techniques with the aim to add more features to it in the future.  
 
